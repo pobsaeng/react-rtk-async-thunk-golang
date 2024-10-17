@@ -1,10 +1,10 @@
 ## Fetch products from the Golang API with `extraReducers` and `createAsyncThunk` 
 
-1) Run the Golang API, open a terminal in the project directory.
+1) Start the backend, open the terminal and run the command inside the project directory named `product-service-gin`.
    ```
    go run .
    ```
-2) Run the React app, go to the React project directory and navigate to http://          localhost:3000.
+2) Start the frontend, open the terminal and run the command inside the project directory named `react-rtk-async-thunk` and navigate to http://localhost:3000.
      ```bash
      npm start
      ```
